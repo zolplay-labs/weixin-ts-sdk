@@ -1,0 +1,17 @@
+{
+  "name": "@zolplay-labs/weixin-ts-sdk",
+  "version": "1.0.0",
+  "author": "Cuvii <xw5427@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "weixin",
+    "weixin-js-sdk",
+    "typescript",
+    "wechat"
+  ],
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "dependencies": {
+    "weixin-js-sdk": "^1.6.0"
+  }
+}
